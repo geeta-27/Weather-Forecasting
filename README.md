@@ -4,6 +4,11 @@ A modern, responsive weather forecasting application built with React and JavaSc
 
 ## Working
 https://heroic-phoenix-fff87b.netlify.app/
+## Images
+<img width="1892" height="950" alt="Image" src="https://github.com/user-attachments/assets/c27de073-9ade-41bd-b846-3e90071c4ef4" />
+
+<img width="1889" height="969" alt="Image" src="https://github.com/user-attachments/assets/d21657bc-b558-4cd5-9c63-5af6a353f879" />
+
 
 ## Features
 
