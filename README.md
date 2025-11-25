@@ -2,7 +2,7 @@
 
 A modern, responsive weather forecasting application built with React and JavaScript, featuring real-time weather data, geolocation support, and a beautiful dark mode.
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - **Real-Time Weather Data**: Powered by the Open-Meteo API (no API key required)
@@ -24,7 +24,7 @@ A modern, responsive weather forecasting application built with React and JavaSc
 - **Local Storage**: Remembers your dark mode preference across sessions
 - **Clean Architecture**: Minimal, human-made project structure
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -66,7 +66,7 @@ The production-ready files will be in the `dist` folder.
 - **CSS3** - Custom styling with CSS variables
 - **Open-Meteo API** - Weather data provider
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Weather Forecasting/
@@ -89,14 +89,14 @@ Weather Forecasting/
 └── package.json
 ```
 
-## 🌐 API Information
+## API Information
 
 This project uses the **Open-Meteo API**:
 - **Geocoding API**: Converts city names to coordinates
 - **Weather API**: Fetches current weather and forecast data
 - **No API Key Required**: Free and open-source weather data
 
-## 🎨 Features in Detail
+## Features in Detail
 
 ### Geolocation
 On first load, the app requests your location permission. If granted, it automatically displays weather for your current location.
@@ -111,18 +111,18 @@ Your theme preference is saved to localStorage and persists across browser sessi
 - Atmospheric Pressure (hPa)
 - Visibility (km)
 
-## 🚀 Deployment
+## Deployment
 
 This app can be easily deployed to:
 - **Vercel**: `vercel --prod`
 - **Netlify**: Drag and drop the `dist` folder
 - **GitHub Pages**: Use `gh-pages` package
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Weather data provided by [Open-Meteo](https://open-meteo.com/)
 - Weather icons from OpenWeatherMap
